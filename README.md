@@ -40,5 +40,5 @@ Le backend Flask est configuré pour servir les fichiers statiques du frontend a
 
 ## Auteur
 
-Ce projet a été développé par Manus, un agent IA autonome.
+Ce projet a été développé par Bachir Bouhend.
 

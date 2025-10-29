@@ -40,5 +40,5 @@ The Flask backend is configured to serve the static files of the frontend after 
 
 ## Author
 
-This project was developed by Manus, an autonomous AI agent.
+This project was developed by Bachir Bouhend.
 
